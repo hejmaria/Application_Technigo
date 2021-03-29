@@ -1,0 +1,79 @@
+/* stylingt for all text */
+body {
+  font-family: Helvetica, "sans serif";
+  color: #2A363B;
+  
+}
+
+
+/* styling headings text and links */
+
+h1 {
+  font-size: 60px;
+  color: #FECEAB;
+  background-color: #E84A5F; 
+  text-align: center;
+}
+h2 {
+  font-weight: 200;
+  margin-left: 100px;
+  margin-right: 100px;  
+}
+h3 {
+  font-style: italic;
+  font-weight: 400;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+h4{
+  font-size: 24px;
+  font-weight: 600;
+  color: #FECEAB;
+  background-color: #2A363B;
+}
+
+p {
+  font-size: 24px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+a {
+  color: #E84A5F;
+  background: #FECEAB;
+  text-decoration: none;
+
+}
+
+
+/* styling for different sections */
+
+.rubrik {
+  background-color: #FECEAB;
+  padding: 150px 30px;
+  text-align: left;
+
+}
+
+.info {
+  background-color: #99B898;
+  padding: 150px 150px;
+  text-align: left;
+
+}
+
+.links {
+  background-color: #FF847C;
+  padding: 150px 30px;
+  font-weight: 400;
+  text-align: left;
+
+}
+
+.img-center {
+  width: 180px;
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
